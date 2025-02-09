@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+pdfplumber
+faiss-cpu  # If using FAISS for vector storage
+ollama  # Required for Ollama embeddings and LLM
+asyncio  # For async processing (built-in for Python 3.7+)
